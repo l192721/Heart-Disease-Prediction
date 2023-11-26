@@ -1,3 +1,4 @@
 joblib
 ipywidgets
 numpy
+scikit-learn
